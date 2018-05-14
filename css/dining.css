@@ -155,7 +155,10 @@ body {
   width: 100%;
  }
 
-.
+.last-flex >h5{
+  margin-left: 120px;
+  font-size: 10px;
+}
 /* .home-bottom {
   float: right;
 } */
